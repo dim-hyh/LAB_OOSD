@@ -1,6 +1,6 @@
 # BÀI 7 – QUẢN LÝ NHÂN SỰ
 
-**Môn:** Thực hành Phân tích thiết kế hướng đối tượng – HUTECH
+**Môn:** Thực hành Phân tích thiết kế hướng đối tượng
 
 ## Thông tin sinh viên
 
